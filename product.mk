@@ -18,6 +18,11 @@ PRODUCT_PACKAGES += \
     SystemUIClocks-Metro \
     SystemUIClocks-NumOverlap
 
+PRODUCT_PACKAGES += \
+    HideSmartSpace \
+    SmartSpaceOffset \
+    HideClock
+
 # Fonts
 PRODUCT_PACKAGES += \
     fonts_customization.xml \
