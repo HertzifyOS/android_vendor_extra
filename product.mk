@@ -13,4 +13,7 @@ PRODUCT_PACKAGES += \
     SystemUIClocks-Metro \
     SystemUIClocks-NumOverlap
 #   SystemUIClocks-Weather
-    
+
+# RRO to hide NexusLauncher gesture hint  
+PRODUCT_PACKAGES += \
+    PixelLauncherNoGestureHintOverlay
