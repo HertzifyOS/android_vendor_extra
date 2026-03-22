@@ -4,6 +4,10 @@
 # SPDX-License-Identifier: Apache-2.0
 #
 
+# AndroidBlackTheme
+PRODUCT_PACKAGES += \
+    AndroidBlackThemeOverlay
+
 # Clocks (SystemUI)
 PRODUCT_PACKAGES += \
     SystemUIClocks-BigNum \
